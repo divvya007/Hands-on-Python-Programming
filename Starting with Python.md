@@ -5,5 +5,5 @@
 
       https://www.anaconda.com/download/#macos
 
- I like jupyter notebook as it is easy to use but any IDE can be used like :
+ I'm using jupyter notebook as it is easy to use but any IDE can be used like :
  Pycharm, Spyder or any other computing notebook.
