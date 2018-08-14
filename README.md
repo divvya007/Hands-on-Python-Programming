@@ -21,6 +21,7 @@ It is important to build your logic first to start coding instead of learning sy
 
 
 * What Programming is?
+
       -  Set of instructions or sequence of instructions that user specifies to carry out computation.
 
 * Purpose of Programming?
