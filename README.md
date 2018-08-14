@@ -40,7 +40,7 @@ It is important to build your logic first to start coding instead of learning sy
 
 * Variables :
 
-Can be any data type and stores single value. It is important to give a meaning name to variable as it makes program readable.
+Can be any data type and stores single value. It is important to give a meaningful name to variable as it makes program readable.
     Some Rules to follow :
 
     * Remember variables are case sensitive.
